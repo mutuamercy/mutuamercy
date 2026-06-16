@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mercy%20Mutua&fontAlign=50&fontAlignY=40&color=gradient" />
+</p>
 # Hi there, I'm Mercy Mutua 👋
 
 ## 👩‍💼 About Me
