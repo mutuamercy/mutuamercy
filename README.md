@@ -20,7 +20,12 @@ My goal is to combine finance, analytics, and machine learning to build intellig
 - Preparing for advanced studies in Data Science
 
 ---
+## 🛠 Technologies
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ## 🛠 Skills
 
 ### Finance & Accounting
@@ -41,12 +46,13 @@ My goal is to combine finance, analytics, and machine learning to build intellig
 
 ## 🚀 Upcoming Projects
 
-- AI Cash Flow Forecasting System
-- Invoice Anomaly Detection Tool
-- Exchange Rate Prediction Model
-- Financial Analytics Dashboard
+## 🚀 Portfolio Projects
 
----
+| Project | Description | Status |
+|----------|-------------|----------|
+| AI Cash Flow Forecasting System | Predict future cash flow using machine learning | 🔄 In Development |
+| Invoice Anomaly Detection Tool | Detect unusual invoices using analytics | 🔄 Planned |
+| Exchange Rate Prediction Model | Forecast FX trends using data science techniques | 🔄 Planned |
 
 ## 📚 Academic Interests
 
