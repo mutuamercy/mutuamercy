@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi there, I'm Mercy Mutua 👋
 
-<!--
-**mutuamercy/mutuamercy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💼 About Me
 
-Here are some ideas to get you started:
+I am a Certified Public Accountant (CPA) transitioning into Data Science and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to combine finance, analytics, and machine learning to build intelligent solutions that support better business decision-making.
+
+---
+
+## 🎯 Current Focus
+
+- Learning Python for Data Science
+- Building Machine Learning projects
+- Developing SQL and database skills
+- Financial Analytics and Forecasting
+- Preparing for advanced studies in Data Science
+
+---
+
+## 🛠 Skills
+
+### Finance & Accounting
+- Financial Reporting
+- Budgeting & Forecasting
+- Financial Analysis
+- Risk Assessment
+
+### Data Science
+- Python
+- Pandas
+- NumPy
+- SQL
+- Data Visualization
+- Machine Learning Fundamentals
+
+---
+
+## 🚀 Upcoming Projects
+
+- AI Cash Flow Forecasting System
+- Invoice Anomaly Detection Tool
+- Exchange Rate Prediction Model
+- Financial Analytics Dashboard
+
+---
+
+## 📚 Academic Interests
+
+- Data Science
+- Machine Learning
+- Financial Technology (FinTech)
+- Artificial Intelligence
+- Business Intelligence
+
+---
+
+## 🌍 Vision
+
+To bridge the gap between finance and technology by developing AI-powered solutions that improve decision-making and create measurable business value.
+
+---
+
+⭐ Thank you for visiting my profile.
